@@ -20,3 +20,5 @@ print(set)
 set2 = {1, 2, 3, 4, 5}
 set3 = {4, 5, 8, 9, 10}
 print(set2.union(set3))
+# return duplicate values array
+print(set2.intersection(set3))
